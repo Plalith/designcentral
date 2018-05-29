@@ -1,0 +1,23 @@
+.form-group form label {
+    font-size: 23px;
+    font-family: "Segoe UI",Arial,sans-serif;
+    line-height: 2cm;
+    font-weight: 300;
+}
+.form-group form button{
+    height: 50px;
+    font-size: 20px;
+}
+.d_wardrobes {
+    padding: 25px;
+}
+.content {
+    padding: 25px;
+}
+.d_wardrobes .page_heading {
+    color: saddlebrown;
+    font-size: 25px;
+    border-left-color: yellow;
+    border-left: solid 3px yellow;
+    padding-left:10px;
+}
